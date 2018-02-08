@@ -30,7 +30,7 @@ too simple
 
         PagerAdapter pagerAdapter = new PagerAdapter(this,data);
         pager.setAdapter(pagerAdapter);
-        tab.setupWithViewPager(tab);
+        tab.setupWithViewPager(pager);
         dialog.setupWithViewPager(pager);
         dialog.setContentView(rootView);
         dialog.show();
