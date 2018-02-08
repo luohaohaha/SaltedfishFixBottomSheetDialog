@@ -1,9 +1,9 @@
 package android.support.design.widget;
 
 /**
- * Project: WTS<br/>
+ * Project: SaltedfishFixBottomSheetDialog<br/>
  * Package: android.support.design.widget<br/>
- * ClassName: BottomSheetBehavior<br/>
+ * ClassName: SaltedFishBottomSheetBehavior<br/>
  * Description: TODO<br/>
  * Date: 2018-02-08 上午10:37 <br/>
  * <p>
