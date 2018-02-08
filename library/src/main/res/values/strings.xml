@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="wts_bottom_sheet_behavior" translatable="false">android.support.design.widget.SaltedFishBottomSheetBehavior</string>
+</resources>
