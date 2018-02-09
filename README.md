@@ -7,9 +7,9 @@
 Add the following dependency to your build.gradle:
 ```gradle
 dependencies {
-    implementation 'com.saltedfish:library:1.0'
+    implementation 'com.saltedfish:library:1.0.1'
     //or
-    //compile 'com.saltedfish:library:1.0'
+    //compile 'com.saltedfish:library:1.0.1'
 }
 ```
 
