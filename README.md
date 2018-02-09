@@ -1,5 +1,8 @@
 # SaltedfishFixBottomSheetDialog
  Fixed a problem that ViewPager can not scroll in BottomSheetDialog
+ 
+ ![Demo animation](https://github.com/luohaohaha/SaltedfishFixBottomSheetDialog/blob/master/ezgif-5-53cb68429f.gif)
+ 
 ## How to use
 
 ### 1. Add a dependency
